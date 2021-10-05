@@ -7,8 +7,7 @@
 ### *__Y además se pueden combinar :)__*
 ### http://github.com - automatic!
 [GitHub](http://github.com)
-### > Aquí iría, por ejemplo, una frase de alguien importante
-`<addr>` element here instead.
+ > Aquí iría, por ejemplo, una frase de alguien importante
 ### * Prueba 1
 * Prueba 2
   * Prueba 2a
