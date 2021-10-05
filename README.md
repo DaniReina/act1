@@ -8,11 +8,11 @@
 ### http://github.com - automatic!
 [GitHub](http://github.com)
  > Aquí iría, por ejemplo, una frase de alguien importante
-### * Prueba 1
+* Prueba 1
 * Prueba 2
   * Prueba 2a
   * Prueba 2b
-### 1. Prueba 1
+1. Prueba 1
 2. Prueba 2
 3. Prueba 3
    3. Prueba 3a
