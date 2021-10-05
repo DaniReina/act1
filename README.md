@@ -1,9 +1,9 @@
 # act1
 ### Esto es una prueba 
-*Así se escribe en cursiva*,
+*Así se escribe en cursiva*.
 _Así también_
 
-**Así se usa la negrita**,
+**Así se usa la negrita**.
 __Pero también se puede así__
 
 *__Y además se pueden combinar :)__*
