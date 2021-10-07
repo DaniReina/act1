@@ -21,5 +21,5 @@ __Pero también se puede así__
 1. Prueba 1
 2. Prueba 2
 3. Prueba 3
-   3. Prueba 3a
-   3. Prueba 3b
+   3.1. Prueba 3a
+   3.2. Prueba 3b
