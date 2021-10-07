@@ -18,8 +18,3 @@ __Pero también se puede así__
 * Prueba 2
   * Prueba 2a
   * Prueba 2b
-1. Prueba 1
-2. Prueba 2
-3. Prueba 3
-   3. Prueba 3a
-   3. Prueba 3b
